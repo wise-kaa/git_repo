@@ -1,3 +1,2 @@
 print("Hi EvryBady")
 print("Hi")
-print("Welcom")
